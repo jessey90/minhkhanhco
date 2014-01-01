@@ -1,0 +1,23 @@
+<!--=================================================
+Initial colabs_options for integrating with WPML
+Theme : Photogram
+=====================================================-->
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">photograph</custom-type>
+    </custom-types>    
+    <taxonomies>
+        <taxonomy translate="1">photograph-categories</taxonomy>
+    </taxonomies>   
+    <admin-texts>
+        <key name="colabs_options" >
+					<key name="colabs_title" />
+					<key name="colabs_og_sitename" />
+					<key name="colabs_og_admins" />
+				</key>
+				<key name="fields" />
+    </admin-texts>    
+        
+</wpml-config>
+
+
