@@ -62,8 +62,7 @@
 		?>
 		<header id="branding" >
             <div id="logoMK">
-                <img src="http://minhkhanhco.com/wp-content/uploads/Logo-cty-MK-1.png" alt="Minh Khánh" style="width: 150px;
-margin: 23px 10px -40px 20px;float: left;">
+                <img src="http://minhkhanhco.com/wp-content/uploads/Logo-cty-MK-1.png" alt="Minh Khánh">
             </div>
             <div id="kinhdoanh1" style="width: 200px;float: right;padding: 10px;">
                 <a href="skype:vo_hien?chat">

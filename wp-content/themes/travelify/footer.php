@@ -24,7 +24,7 @@
     <div class="topic-html-content-body">
         <div class="active" style="border-bottom: 1px solid #977349;"><a href="#" style="text-transform: uppercase;color: #0000fe;">Khách hàng tiêu biểu</a></div>
         <div id="doitac_container">
-            <?php echo do_shortcode("[metaslider id=169]"); ?>
+            <?php echo TinyCarousel(1); ?>
         </div>
         <ul style="padding: 0 10px 10px 0;text-align: left;float: left;border-right: 1px solid #977349;">
             <li class="active" style="border-bottom: 1px solid #977349;"><a href="#" style="text-transform: uppercase;color: #0000fe;">Liên hệ</a></li>

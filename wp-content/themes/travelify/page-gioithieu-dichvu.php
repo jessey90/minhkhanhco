@@ -45,10 +45,7 @@ margin-top: 50px;">
             </div>
         </div>
     </div>
-    <div id="dich_vu" style="margin-left:10px;background: #fff;
--webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
-margin-top: 50px;height: 209px;float: right;">
+    <div id="dich_vu">
         <div class="title white_box"><h3>Dịch vụ</h3>
 
             <div class="hr"></div>
@@ -57,21 +54,21 @@ margin-top: 50px;height: 209px;float: right;">
             <div class="item"><img src="http://minhkhanhco.com/wp-content/uploads/Blue_Star.png"
                                    style="width: 15px;height: 15px;" alt="">
 
-                <h3 style="width: 250px;">Thiết kế, thi công nội thất </h3></div>
+                <h3 style="">Thiết kế, thi công nội thất </h3></div>
             <div class="item"><img src="http://minhkhanhco.com/wp-content/uploads/Blue_Star.png"
                                    style="width: 15px;height: 15px;" alt="">
 
-                <h3 style="width: 200px;">Thi công ngoại thất</h3></div>
-
-            <div class="item"><img src="http://minhkhanhco.com/wp-content/uploads/Blue_Star.png"
-                                   style="width: 15px;height: 15px;" alt="">
-
-                <h3 style="width: 307px;">Thi công nội thất Inox</h3></div>
+                <h3>Thi công ngoại thất</h3></div>
 
             <div class="item"><img src="http://minhkhanhco.com/wp-content/uploads/Blue_Star.png"
                                    style="width: 15px;height: 15px;" alt="">
 
-                <h3 style="width: 315px;">Thiết kế, thi công nhà thông minh</h3></div>
+                <h3>Thi công nội thất Inox</h3></div>
+
+            <div class="item"><img src="http://minhkhanhco.com/wp-content/uploads/Blue_Star.png"
+                                   style="width: 15px;height: 15px;" alt="">
+
+                <h3>Thiết kế, thi công nhà thông minh</h3></div>
 
 
         </div>
