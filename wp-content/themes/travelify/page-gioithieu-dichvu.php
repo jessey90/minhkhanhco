@@ -19,7 +19,7 @@
 -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
 box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
 margin-top: 50px;padding: 10px;">
-        <div class="title white_box"><h3>Dự án nổi bật</h3></div>
+        <div class="title white_box"><h3><?php _e("<!--:en-->High light project<!--:--><!--:vi-->Dự án nổi bật<!--:-->"); ?></h3></div>
         <div class="hr"></div>
         <div class="container_dichvu">
             <?php echo do_shortcode("[metaslider id=167]"); ?>
@@ -29,7 +29,7 @@ margin-top: 50px;padding: 10px;">
 -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
 box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
 margin-top: 50px;">
-        <div class="title white_box"><h3>Giới thiệu</h3></div>
+        <div class="title white_box"><h3><?php _e("<!--:en-->About us<!--:--><!--:vi-->Giới thiệu<!--:-->"); ?></h3></div>
         <div class="container_gioithieu"><a href="#"><img
                 src="http://minhkhanhco.com/wp-content/uploads/gia-tri-cot-loi-CVI2.jpg" style="width: 150px;height: 150;"
                 alt=""></a>
@@ -41,12 +41,12 @@ margin-top: 50px;">
                 </p>
             </div>
             <div>
-                <a href="http://minhkhanhco.com/gioi-thieu-cong-ty">Xem chi tiết</a>
+                <a href="http://minhkhanhco.com/gioi-thieu-cong-ty"><?php _e("<!--:en-->More<!--:--><!--:vi-->Xem chi tiết<!--:-->"); ?></a>
             </div>
         </div>
     </div>
     <div id="dich_vu">
-        <div class="title white_box"><h3>Dịch vụ</h3>
+        <div class="title white_box"><h3><?php _e("<!--:en-->Service<!--:--><!--:vi-->Dịch vụ<!--:-->"); ?></h3>
 
             <div class="hr"></div>
         </div>

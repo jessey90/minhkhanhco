@@ -64,19 +64,22 @@
             <div id="logoMK">
                 <img src="http://minhkhanhco.com/wp-content/uploads/Logo-cty-MK-1.png" alt="Minh Khánh">
             </div>
-            <div id="kinhdoanh1" style="width: 200px;float: right;padding: 10px;">
+            <div id="kinhdoanh1" style="width: 200px;float: right;padding: 10px;position: absolute;right: 10px;top: 24px;">
                 <a href="skype:vo_hien?chat">
                     <img src="http://minhkhanhco.com/wp-content/uploads/skype.png" alt="" style="width: 40px;float: left;margin: 5px;">
                     <p style="font-size: 11px;margin-bottom: 0;">Kinh Doanh 2</p>
                     <p style="font-size: 12px;margin-bottom: 0;">HOTLINE: 0988021912</p>
                 </a>
             </div>
-            <div id="kinhdoanh2" style="width: 200px;float: right;padding: 10px;">
+            <div id="kinhdoanh2" style="width: 200px;float: right;padding: 10px;position: absolute;right: 210px;top: 24px;">
                 <a href="skype:bintran?chat">
                     <img src="http://minhkhanhco.com/wp-content/uploads/skype.png" alt="" style="width: 40px;float: left;margin: 5px;">
                     <p style="font-size: 11px;margin-bottom: 0;">Kinh Doanh 1</p>
                     <p style="font-size: 12px;margin-bottom: 0;">HOTLINE: 0909861151</p>
                 </a>
+            </div>
+            <div style="float: right; margin: 0px 10px 0 0;">
+                    <?=qtrans_generateLanguageSelectCode('both');?>
             </div>
 			<?php
 				/** 
